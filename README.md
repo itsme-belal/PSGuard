@@ -226,18 +226,6 @@ The notebook will sequentially execute:
 
 ---
 
-## 📝 Citation
-
-If you find this repository or research helpful in your work, please cite our paper:
-
-```bibtex
-@article{muttaqin2026psguard,
-  title     = {PSGuard: Comparative Static Feature Analysis for Multi-Class PowerShell Malware Detection},
-  author    = {Muttaqin, Adiba and Hossain, Belal},
-  journal   = {Department of Computer Science and Engineering, East West University},
-  year      = {2026}
-}
-```
 
 ---
 
